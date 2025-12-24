@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008688867428",
+    "project_id": "app-qlkth-nhom8",
+    "storage_bucket": "app-qlkth-nhom8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008688867428:android:0c2e69ff1fd170878c5771",
+        "android_client_info": {
+          "package_name": "com.example.app_qlkth_nhom8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9kfUtLOoEDytuneaOKoIPR59AbC5GGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
